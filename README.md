@@ -1,4 +1,4 @@
-NECESIDADES PARA FUNCIONAMIENTO:
+Instrucciones:
 
 configuración de archivo .env
 
