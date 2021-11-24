@@ -141,8 +141,10 @@ Para el correcto funcionamiento se requiere de los siguientes tecnologías:
 
 1. NodeJS
 2. Express
-3. MongoDB
-4. Git
+3. Axios
+4. Mongoose
+5. MongoDB
+6. Git
 
 Para agilizar el desarrollo se ha utilizado el paquete _nodemon_ que se encuentra en las dependencias de desarrollo del paquete _package.json_.
 
@@ -183,7 +185,7 @@ SESSION_SECRET = Secret de la configuración de OAuth en Google
 GOOGLE_CLIENT_ID = ID del cliente de la configuración de OAuth en Google
 ```
 
-### \# Ejecución del servidor
+### \# Ejecución de los servidores
 
 ```shell
 npm run dev
@@ -193,7 +195,9 @@ npm run dev
 
 1. NodeJS
 2. Express
-3. MongoDB
+3. Axios
+4. Mongoose
+5. MongoDB
 
 ## Contact info
 
