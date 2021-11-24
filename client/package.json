@@ -21,8 +21,8 @@
     "express-session": "^1.17.2",
     "google-auth-library": "^7.3.0",
     "mongoose": "^5.13.0",
-    "npm": "^7.18.1",
-    "npx": "^3.0.0",
+    "npm": "^6.14.15",
+    "npx": "^10.2.2",
     "pm2": "^5.1.0",
     "socket.io": "^4.1.2",
     "socket.io-client": "^4.1.3"
